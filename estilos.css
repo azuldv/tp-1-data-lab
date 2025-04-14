@@ -1,0 +1,32 @@
+body{
+background-color: rgb(240, 214, 181);
+color: 333;
+
+h1,h2 {text-align:center ;
+
+}
+
+h1 {
+    text-transform: uppercase;
+color: rgb(114, 53, 0);
+}
+h2 {
+    color: rgb(114, 53, 0);
+
+}
+
+h4 {
+
+    color: rgb(114, 53, 0);
+}
+a {
+    color:rgb(214, 103, 6);
+    text-decoration:none ;
+}
+img {
+    width: 50%;
+    border-radius: 20px;
+    display: block;
+    margin:0%auto
+
+}
